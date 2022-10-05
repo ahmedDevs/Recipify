@@ -16,7 +16,7 @@
     3. [Next Features](#features)
     4. [How to Contribute](#contribute)
     5. [License](#license)
-7. [Acknowledgements](#ack)
+7. [collaborators](#collab)
 
 ## PURPOSE
 ### Overview  <a name="overview"></a>: This is a fullstack recipe app, that allows a user to create a repository of recipes, complete with a grocery ingredient list. 
@@ -99,12 +99,9 @@ In order to run the program please do the following:
 
 #### License <a name="license"></a>
 
-## Acknowledgements <a name="ack"></a>
+## Collaborators <a name="collab"></a>
 
-The following tutorials were utilized in creating some of the features of this project. 
-Thanks to the Content Creators/Teachers
-Leon Noel 
-Claire @Mayanwolfe
+
 
 Collaborators
 
