@@ -16,6 +16,7 @@ const { ensureAuth } = require('../middleware/auth')
 // router.get('/ingredients', guestController.getIngredients)
 
 // router.get('/', authController.getGuestLogin)
+
 router.post('/', authController.postGuestLogin)
 
 // router.get('/recipes',  guestController.getRecipes)
