@@ -1,4 +1,4 @@
-![recipes](https://user-images.githubusercontent.com/102767737/194160453-9b6a25d7-3dc2-4f1f-83a2-69b36fa43e12.png)
+![recipes](https://user-images.githubusercontent.com/102767737/194160453-9b6a25d7-3dc2-4f1f-83a2-69b36fa43e12.png width"600")
 
 ![ingredients](https://user-images.githubusercontent.com/102767737/194160475-8d792521-f124-432b-bf32-6246130dd383.png)
 
