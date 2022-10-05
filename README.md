@@ -19,7 +19,7 @@
 7. [collaborators](#collab)
 
 ## PURPOSE
-### Overview  <a name="overview"></a>: This is a fullstack recipe app, that allows a user to create a repository of recipes, complete with a grocery ingredient list. 
+### Overview  <a name="overview"></a>: This is a fullstack app, that allows a user to create a repository of recipes, complete with a grocery ingredient list. 
 
 Please refer to the demo for sample output. 
 The live site/demo is here: https:// [insert link to live site]
